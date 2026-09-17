@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Raw/derived data: too large for git (twcs.csv ~500MB, over GitHub's 100MB hard
+# limit; resolution_pairs.csv ~57MB, a full derived re-threading of it) and both
+# are trivially reproducible via README's download link + src/load_data.py.
+data/raw/twcs.csv
+data/processed/resolution_pairs.csv
+
+# Small result artifacts (taxonomy, agent outputs, baselines, judge scores) ARE
+# committed on purpose: they're the evidence behind report/REPORT.md's numbers
+# and the assignment's own eval deliverables, and they're small (sample-sized,
+# not full-dataset). eval/golden_set.csv is likewise committed -- it's an
+# explicit required deliverable, not a generated artifact.
+
+.DS_Store

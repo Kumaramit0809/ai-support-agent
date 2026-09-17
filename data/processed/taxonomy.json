@@ -1,0 +1,259 @@
+{
+  "brand": "AmazonHelp",
+  "n_messages": 158711,
+  "intents": [
+    {
+      "id": "general_feedback",
+      "label": "General Feedback & Thanks",
+      "description": "The customer is sharing general comments, compliments, or casual remarks about their experience.",
+      "cluster_size": 1359,
+      "top_terms": [
+        "amazonhelp",
+        "thanks",
+        "email",
+        "amazon",
+        "help",
+        "https",
+        "just",
+        "amazonhelp thanks"
+      ],
+      "example_messages": [
+        "@AmazonHelp Algum dia eu vou ir a\u00ed visitar vcs &lt;3 e certamente irei amar a leitura",
+        "@AmazonHelp Oct 23rd",
+        "@AmazonHelp My track no https://t.co/Ku7gPSl17y",
+        "@AmazonHelp Already put an email. No response yet.",
+        "@AmazonHelp I've left packaging feedback multiple times, but Amazon does not reply to that. This was the next step up I guess?"
+      ]
+    },
+    {
+      "id": "customer_service_complaint",
+      "label": "Customer Service Complaint",
+      "description": "The customer is expressing frustration regarding unhelpful or inconsistent support from customer service representatives.",
+      "cluster_size": 243,
+      "top_terms": [
+        "customer",
+        "service",
+        "customer service",
+        "customer care",
+        "amazonhelp",
+        "care",
+        "amazon",
+        "115821"
+      ],
+      "example_messages": [
+        "@AmazonHelp They said the refund would be processed 10-17 and nothing happened. Customer service offered NO help but to email amazon seller performance",
+        "@AmazonHelp Someone name Pramod called doesn't how to speak to customer puts all blame on Customer  @115850 is this ur service after cancelling order",
+        "@115850 @AmazonHelp 5 days delay, and not responding to dm, you have the worst customer care, will i ever get my order?",
+        "@115821  I can't believe the run around I am getting and the inconsistencies with answers from your customer service.",
+        "@117795 where is my order?? It was meant to get here between 6-8pm. It is now 9:05pm and customer service tells me the driver has taken my order back to the centre due to some pile up in the North. I live South East. I don\u2019t get it. This is so annoying!!"
+      ]
+    },
+    {
+      "id": "international_support_fr",
+      "label": "French Support Request",
+      "description": "The customer is communicating in French regarding order issues, invoices, or app problems.",
+      "cluster_size": 214,
+      "top_terms": [
+        "le",
+        "est",
+        "je",
+        "pas",
+        "et",
+        "120533",
+        "pour",
+        "en"
+      ],
+      "example_messages": [
+        "@AmazonHelp No, si \u00e8 bloccata l\u2019app mentre guardavo le offerte, poi ad un certo punto mi ha chiesto di mettere il dito sul sensore ed \u00e8 tornata normale",
+        "@AmazonHelp Si je n'ai pas re\u00e7u le coli qui l'avez?",
+        "@AmazonHelp j'attends mon colis,il reste 4h23. J'esp\u00e8re que ce sera pas encore une attente pour rien.",
+        "@AmazonHelp Bonsoir, voil\u00e0 trois fois que je demande une facture pour une ancienne commande \u00e0 un vendeur officiant sur votre site, sans r\u00e9ponse \u00e0 chaque fois malgr\u00e9 l'obligation l\u00e9gale des 48h. Que faire ? Merci d'avance",
+        "@AmazonHelp Vous le trouvez endommag\u00e9 ? Aller dire donc \u00e7a au mur qui prend tr\u00e8s ch\u00e8re ! (il a un arbre \u00e0 chat, mais il l'utilise pas) https://t.co/KByBYhImQP"
+      ]
+    },
+    {
+      "id": "delivery_delay",
+      "label": "Delivery Delay Issues",
+      "description": "The customer is inquiring about late shipments or failed deliveries for Prime and standard orders.",
+      "cluster_size": 434,
+      "top_terms": [
+        "delivery",
+        "day",
+        "prime",
+        "amazonhelp",
+        "day delivery",
+        "115821",
+        "today",
+        "date"
+      ],
+      "example_messages": [
+        "@AmazonHelp Since you did not understood clearly last time, I am asking again.\nIf delivery of item is failed due to communication failure, then when next attempt is taken?\n@4301 @122869 @132995 @132994 @139570",
+        "@147807 Lies. I\ufe0f had two day shipping. My package was supposed to be her Saturday. Still hasn\u2019t came. Not even in my state yet \ud83d\ude44\ud83d\ude11. Amazon prime doing me wrong.",
+        "@AmazonHelp I called your support team but that didn't solve my issue either I m a prime member and paid 50 extra for same day delivery Now because of a delivery agent by whom I am cheated why would I go through all the process and suffer It's not my fault. Isn't delivery agent answerable ?",
+        "@AmazonHelp No I went on my app and saw that it said expected delivery Saturday. I\u2019ve ore order cod twice before from amazon and they always came on day",
+        "Thanks to my @AmazonHelp delivery driver who called to ask if I was home, could barely speak English,asked to put the parcel in my outside letterbox,i advised if too big to put it in the porch.He couldn't understand&amp;left it  hanging out the letterbox!Parcel&amp;goods water damaged\ud83d\udc4e"
+      ]
+    },
+    {
+      "id": "return_pickup_failure",
+      "label": "Return Pickup Failure",
+      "description": "The customer needs help because a scheduled product return pickup failed or the agent did not show up.",
+      "cluster_size": 550,
+      "top_terms": [
+        "115850",
+        "https",
+        "amazon",
+        "product",
+        "115850 amazonhelp",
+        "amazonhelp 115850",
+        "amazonhelp",
+        "115851"
+      ],
+      "example_messages": [
+        "@AmazonHelp @7507 @115850 @115821 till now there is no resolution its happening third time wid me in last 1 year, its terrible",
+        ".@115850 Tried returning a product but the agent doesn't turn up? Please help.",
+        "@115850 @115821 no response!! U just like who cares ?? https://t.co/Jf4JuhnmKC",
+        "@115850 @115851 multiple factors made my shopping on #Amazon really frustrating this diwali. Won't be shopping again with Amazon",
+        "@115850 The Echo that you have launched in India is the new second gen or three older one?"
+      ]
+    },
+    {
+      "id": "international_support_es",
+      "label": "Spanish Support Request",
+      "description": "The customer is communicating in Spanish regarding recent orders, deliveries, or support interactions.",
+      "cluster_size": 247,
+      "top_terms": [
+        "que",
+        "el",
+        "por",
+        "la",
+        "en",
+        "es",
+        "lo",
+        "para"
+      ],
+      "example_messages": [
+        "@AmazonHelp Si, tb puedo decirte un pedido reciente de la cuenta que no entra",
+        "@AmazonHelp Ya estoy hablando con uno de vuestros compa\u00f1eros. Presentar\u00e1 queja a la compa\u00f1\u00eda ya que no hay manera de solucionar el estropicio que llevan haciendo desde el viernes para entregar un simple paquete.",
+        "Gracias @116928 mi pedido llego antes de la fecha \ud83d\ude01 \ud83c\udf89\ud83d\udc4f\ud83c\udffe...",
+        "@AmazonHelp \u00a1No! \u00a1Si est\u00e1 genial la soluci\u00f3n a la ausencia en casa! Eso s\u00ed, si me hubieran avisado de que estaba en el buz\u00f3n mejor...",
+        "C\u00f3mo amo el Servicio al Cliente de @115821 :')"
+      ]
+    },
+    {
+      "id": "pending_resolution_followup",
+      "label": "Pending Resolution Followup",
+      "description": "The customer is following up on an ongoing issue after being told to wait for a resolution update.",
+      "cluster_size": 91,
+      "top_terms": [
+        "amazonhelp yes",
+        "yes",
+        "amazonhelp",
+        "yes did",
+        "did",
+        "ve",
+        "said",
+        "today"
+      ],
+      "example_messages": [
+        "@AmazonHelp Yes it mentions 24-48 hours for resolution.I haven't received any updates after that.its already a 2nd day.",
+        "@AmazonHelp Yes, I've dropped the details",
+        "@AmazonHelp Yes i did, even i tried since last couple of days for 2-3 orders continuously ,but sorry to say it is not responsive and sensible.",
+        "@AmazonHelp Yes umpteen times I have done &amp; contacted u but nothing happened. #whenitwillbedone",
+        "@AmazonHelp yes please i have shared details"
+      ]
+    },
+    {
+      "id": "media_link_submission",
+      "label": "Media or Link Submission",
+      "description": "The customer is providing external links, screenshots, or account details to support an ongoing inquiry.",
+      "cluster_size": 49,
+      "top_terms": [
+        "amazonhelp https",
+        "https",
+        "amazonhelp",
+        "item",
+        "preordered",
+        "login",
+        "115850 115821",
+        "multiple times"
+      ],
+      "example_messages": [
+        "@AmazonHelp US https://t.co/dfpKjK0Ejs",
+        "@AmazonHelp  https://t.co/DFW9iCPQD8",
+        "@AmazonHelp This was the other one https://t.co/92hjNcwNMl",
+        "@AmazonHelp  https://t.co/mtbagFwZ2V",
+        "@AmazonHelp https://t.co/TqNkEPeOc2"
+      ]
+    },
+    {
+      "id": "order_status_and_payment",
+      "label": "Order Status & Payment",
+      "description": "The customer is checking the status of an unfulfilled order, delayed pre-order, or failed payment.",
+      "cluster_size": 448,
+      "top_terms": [
+        "order",
+        "amazonhelp",
+        "115850",
+        "amazonhelp order",
+        "delivered",
+        "115850 order",
+        "amazon",
+        "placed"
+      ],
+      "example_messages": [
+        "@115850 whts the status of order 407-7772375-3345130?.its been 4 days i placed the order and its still not shipped?tke this on priority",
+        "@AmazonHelp As I said..i have tried calling..but the call gets disconnected saying order details not found. What to do?",
+        ".@116618 your update for the PS3 app need some work. Twice in a row I need to reboot the PS3 in order to get audio with my videos.",
+        "Money has been debited from my account but order has failed and I still didn't get my money.. Why my order hasn't been placed? @132994 @139570 @115850 https://t.co/UuQxmD3oh4",
+        "@AmazonHelp I feel like I deserve some kind of compensation in the first place. Why pre order if it\u2019s going to take ages to come?"
+      ]
+    },
+    {
+      "id": "missing_or_misdelivered_package",
+      "label": "Missing Package Inquiry",
+      "description": "The customer is trying to locate a package marked as delivered that they cannot find.",
+      "cluster_size": 305,
+      "top_terms": [
+        "don",
+        "time",
+        "know",
+        "amazonhelp",
+        "amazon",
+        "amazonhelp don",
+        "don know",
+        "115821"
+      ],
+      "example_messages": [
+        "@AmazonHelp Luckily it was. Just don't understand why didn't leave it at my neighbors. It would of been soaked through",
+        "@AmazonHelp Hi , it was sent via another seller , Premier Life Store .\nHave sent an email but not sure if it\u2019s the right address , but said I should get an email reply within 2 days .\nIt even says on the invoice the Christmas one so don\u2019t understand .... \ud83e\udd14",
+        "@AmazonHelp Thank you I still don't understand why my experience has changed so much. And I would like to be able to know before I order (or don't).",
+        "@AmazonHelp SIR NOW I CAN'T DO ANYTHING , PLEASE LET ME KNOW ARE YOU PEOPLE WILLING TO SOLVE MY COMPLAINT OR NOT THATS ALL.\nOR I WILL SCRAP THE MIXER.",
+        "@115821 What is a mailroom if I don't have one? Ordered a cremation pendant for my mother and she can't find it. It was \"delivered\" today."
+      ]
+    },
+    {
+      "id": "general_inquiry_and_error",
+      "label": "General Inquiry & Errors",
+      "description": "The customer is asking general product questions, reporting website errors, or seeking refund guidance.",
+      "cluster_size": 1060,
+      "top_terms": [
+        "115821",
+        "https",
+        "amazon",
+        "package",
+        "prime",
+        "115830",
+        "amazonhelp",
+        "119625"
+      ],
+      "example_messages": [
+        "@120540 Ma perch\u00e9 non fate delle #foodBox con gli ingredienti di @38952 da ordinare con Prime cos\u00ec nel week end uno pu\u00f2 cucinare?",
+        "@115821 @115830 @AmazonHelp",
+        "@AmazonHelp 2/2 Tue ich es kommt eine Mail, das eine Erstattung nicht m\u00f6glich ist.Was kann und sollte ich nun tun? Danke",
+        "@115830 @115830 can you do something about this error?? #disappointed",
+        "If I have @118117 and @233306 which @115833 do I want? Can I just buy a dot? Not sure about difference between \u201cbuilt-in hub\u201d and \u201ccontrol smart devices\u201d @237101 @240840 https://t.co/eGiRZe0rnY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+customer_tweet_id,groundedness,helpfulness,tone_fit,correctness,notes,overall
+28474,5,5,5,5,The drafted reply correctly advises the customer to protect their privacy by using DMs.,5.0
+385370,5,5,5,5,The drafted reply matches historical handling by apologizing and providing a support link.,5.0
+141095,5,4,5,5,"The drafted reply appropriately acknowledges the customer's frustration and directs them to check their email for further updates, matching historical escalation handling.",4.75
+2292061,3,2,4,2,The drafted reply ignores the 24-48 hour timeframe mentioned in historical context and asks an unhelpful question.,2.75
+65765,5,5,5,5,"The drafted reply appropriately directs the customer to secure support channels for account investigation, matching historical procedure.",5.0
+757168,4,2,4,2,The reply acknowledges the issue well but fails to provide the required support link for resolution like the historical example.,3.0
+103045,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+2119265,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1433613,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1485738,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,1.0
+2287516,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+398716,1,1,1,1,The drafted reply is invalid ('nan') and fails all criteria.,1.0
+2344015,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2733972,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+549482,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1263964,5,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,2.0
+1562456,5,1,1,1,"The drafted reply is empty/invalid, failing to address the customer or provide support.",2.0
+944288,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+486635,1,1,1,1,"The drafted reply is empty or invalid ('nan'), failing all criteria.",1.0
+421409,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+199649,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+745101,1,1,1,1,The drafted reply is invalid as it only contains 'nan' instead of an actual response.,1.0
+2930063,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2956979,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1558762,5,5,5,5,"The drafted reply correctly addresses the privacy concern and provides a helpful, safe contact link matching the brand's style.",5.0
+277581,5,4,5,4,The drafted reply shows empathy and offers a clear path forward via direct message.,4.5
+1011476,5,5,5,5,"The drafted reply is empathetic, provides a clear action step, and matches the brand's support style.",5.0
+980606,5,4,5,5,The drafted reply matches the friendly and helpful tone of the historical response.,4.75
+456606,5,5,5,5,"The drafted reply appropriately acknowledges the customer's specific concern while offering a clear, actionable resolution path.",5.0
+27385,5,4,4,3,The drafted reply provides troubleshooting steps but diverges from the historical procedural context of redirecting to a support link.,4.0
+1733116,1,1,1,1,The drafted reply is invalid as it contains only the text 'nan'.,1.0
+2308907,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+2338831,1,1,1,1,The drafted reply is invalid as it contains only the string 'nan'.,1.0
+1015577,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1246887,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1936478,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+843524,5,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,2.0
+376811,5,1,1,1,The drafted reply is invalid ('nan') and fails to provide any support.,2.0
+958170,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,1.0
+1524024,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2471028,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+652085,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,1.0
+428304,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1009198,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+996728,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+417793,1,1,1,1,"The drafted reply is 'nan', which provides no assistance or valid response.",1.0
+2753590,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+441900,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1228020,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+294823,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and provides no actual support.,1.0
+987217,5,1,1,1,The drafted reply is invalid as it only contains the string 'nan' and provides no assistance.,2.0
+2802385,5,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,2.0
+2884906,1,1,1,1,The drafted reply is invalid ('nan') and fails to address the customer's issue.,1.0
+2815512,1,1,1,1,The drafted reply is invalid ('nan') and fails all criteria.,1.0
+2380846,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+179113,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1649138,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+1479702,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1385283,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+938030,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and provides no assistance.,1.0
+2115603,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1576217,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2242565,1,1,1,1,The drafted reply is invalid ('nan') and fails all criteria.,1.0
+1125032,5,1,1,1,The drafted reply is invalid (nan) and fails to provide any customer support.,2.0
+994367,5,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no help or appropriate tone.",2.0
+1385301,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,1.0
+1402173,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer.,1.0
+1046559,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+1346593,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+810237,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+633669,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+1117011,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+2573846,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2254511,5,1,1,1,The drafted reply is invalid as it contains only the text 'nan'.,2.0
+1301831,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,1.0
+294259,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+876273,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+252795,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1664826,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+176381,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+639608,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2856569,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1373869,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1519823,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance to the customer.,1.0
+710040,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2379861,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2276350,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1738971,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2176382,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+492196,5,1,1,1,"The drafted reply is empty or invalid, leading to poor scores across helpfulness, tone, and correctness.",2.0
+2794254,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2513482,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1292013,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer.,1.0
+792091,1,1,1,1,The drafted reply is empty or invalid ('nan') and provides no assistance.,1.0
+1325749,5,1,1,1,The drafted reply is empty (nan) and provides no assistance to the customer.,2.0
+493243,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,1.0
+1160408,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+966793,1,1,1,1,The drafted reply is empty or invalid ('nan') and fails all criteria.,1.0
+535036,1,1,1,1,The drafted reply is empty or invalid ('nan').,1.0
+1043635,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer's message.,1.0
+2401229,1,1,1,1,The drafted reply is invalid ('nan') and fails all evaluation criteria.,1.0
+2065750,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2904967,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2906708,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+2834218,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1507964,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1058810,1,1,1,1,The drafted reply is invalid as it contains only the text 'nan'.,1.0
+641773,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+498381,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+789636,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+294322,1,1,1,1,The drafted reply is invalid ('nan') and fails all evaluation criteria.,1.0
+1632490,1,1,1,1,The drafted reply is invalid as it contains only the text 'nan'.,1.0
+386444,5,1,1,1,The drafted reply is empty (nan) and fails to assist the customer.,2.0
+2961757,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+646728,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1676681,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+704345,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer.,1.0
+777163,5,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,2.0
+542106,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2677337,5,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer.,2.0
+2463032,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+169508,1,1,1,1,The drafted reply is empty or invalid ('nan') and provides no assistance.,1.0
+1073203,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+2560379,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,1.0
+1137455,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1504842,5,1,1,1,The drafted reply is invalid ('nan') and fails to provide any support or address the customer's issue.,2.0
+288009,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1774536,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1670270,1,1,1,1,The drafted reply is invalid and provides no assistance.,1.0
+1744960,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance to the customer.,1.0
+2836947,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1711461,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1929375,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+2186263,5,1,1,1,"The drafted reply is empty or invalid, providing no assistance to the customer.",2.0
+1305157,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2254478,5,1,1,1,The drafted reply is invalid ('nan') and provides no assistance to the customer.,2.0
+2057173,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1048807,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1325126,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,1.0
+570122,1,1,1,1,The drafted reply is empty or invalid ('nan') and fails all evaluation criteria.,1.0
+230587,1,1,1,1,The drafted reply is empty or invalid ('nan').,1.0
+1089831,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2957059,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+969225,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+417541,1,1,1,1,The drafted reply is empty or invalid ('nan') and fails all evaluation criteria.,1.0
+318086,1,1,1,1,The drafted reply is empty or invalid ('nan') and provides no assistance.,1.0
+848111,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+1363561,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+28411,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1021626,1,1,1,1,"The drafted reply is 'nan', which provides no assistance or valid response.",1.0
+191554,5,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no assistance to the customer.",2.0
+446823,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+206023,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+1850521,5,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,2.0
+2760866,5,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,2.0
+2289818,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+982969,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+644773,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2205103,1,1,1,1,The drafted reply is invalid as it only contains 'nan' and fails to address the customer's query.,1.0
+2387973,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2747109,1,1,1,1,"The drafted reply is empty or invalid ('nan'), failing all criteria.",1.0
+2176251,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2198914,5,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,2.0
+2734339,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+2747166,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+1986965,5,1,1,1,The drafted reply is 'nan' and fails to provide any assistance to the customer.,2.0
+727840,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+1584499,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2360519,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,2.0
+971027,1,1,1,1,The drafted reply is invalid ('nan') and provides no assistance.,1.0
+451950,5,1,1,1,The drafted reply is invalid as it only contains 'nan'.,2.0
+2634815,1,1,1,1,The drafted reply is invalid as it only contains 'nan'.,1.0
+117888,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2151886,1,1,1,1,"The drafted reply is empty or invalid ('nan'), providing no support to the customer.",1.0
+279520,1,1,1,1,The drafted reply is empty or invalid ('nan').,1.0
+2600164,5,1,1,1,The drafted reply is invalid ('nan') and provides no assistance to the customer.,2.0
+1568788,3,1,1,3,The drafted reply contains no actual text and fails to provide any assistance.,2.0
+2159712,5,1,1,1,The drafted reply is invalid as it contains 'nan' and fails to address the customer.,2.0
+422266,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2055540,5,1,1,1,The drafted reply is invalid ('nan') and provides no assistance to the customer.,2.0
+1201926,1,1,1,1,The drafted reply is empty or invalid ('nan').,1.0
+210366,5,4,5,5,"The drafted reply provides a standard, secure support link to help with blocked privileges.",4.75
+2862098,5,1,1,1,The drafted reply is invalid (nan) and provides no assistance to the customer.,2.0
+341586,5,1,1,1,The drafted reply is invalid as it only contains the text 'nan' instead of a proper support response.,2.0
+256620,5,5,5,5,"The drafted reply is empathetic, provides a clear actionable next step via a secure link, and aligns well with standard support practices.",5.0
+1522616,5,4,5,4,"The drafted reply is empathetic and suggests helpful troubleshooting steps, aligning well with support standards.",4.5
+359510,5,5,5,5,"The drafted reply is helpful, polite, matches the agent's signature style, and safely directs the user to a secure link.",5.0
+1243778,5,5,5,5,The drafted reply properly moves the sensitive verification conversation to a private channel while matching the brand's tone.,5.0
+2891906,5,5,5,5,"The drafted reply appropriately offers a direct message for assistance, though the customer name was incorrectly inferred as Rafa instead of Braga.",5.0
+2104290,1,1,1,1,The drafted reply is invalid as it contains only the string 'nan'.,1.0
+1086026,1,1,1,1,The drafted reply is empty or invalid ('nan').,1.0
+1078455,1,1,1,1,The drafted reply is invalid (nan) and provides no assistance.,1.0
+985045,1,1,1,1,The drafted reply is invalid ('nan') and fails all criteria.,1.0
+380422,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1431409,1,1,1,1,The drafted reply is invalid as it only contains the string 'nan'.,1.0
+288322,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+2318037,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+1042299,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+111820,1,1,1,1,The drafted reply is invalid as it only contains the text 'nan'.,1.0
+785479,1,1,1,1,The drafted reply is invalid as it contains only the string 'nan'.,1.0

@@ -1,0 +1,29 @@
+customer_tweet_id,customer_text,gold_intent_id,gold_escalate,gold_escalate_reason
+customer_tweet_id,customer_text,gold_intent_id,gold_escalate,gold_escalate_reason
+69770,@115830 where's my order? Very poor customer experience on your Black Friday deals. Surely you should be prepared for this demand?!,order_status_and_payment,True,"Frustrated customer, complaint tone about Black Friday handling, not just a status question"
+122772,"@AmazonHelp Y así fue, no me ha llegado el paquete en todo el día.
+
+Pagar Prime para esto..",order_status_and_payment,True,"Frustrated customer, complaint tone about Black Friday handling, not just a status question"
+158665,@115850 hi my friend ordered an air fryer from his ID and I only have the tracking no. Can you assist me in tracking of the item?,order_status_and_payment,True,
+179327,"Talked nearly 7-8 times, for my refund. The product was cancelled on 25th. And still i haven't received any refund. 
+Courtesy- @115850",pending_resolution_followup,True,"Frustrated customer, complaint tone about their refund"
+243141,@AmazonHelp Thank you for the sugar coated email but that doesn't help. I wasn't wrong when I said it's a ridiculous system.,customer_service_complaint,True,"Frustrated customer, complaint about their detail"
+390011,@115850 Amazon.in is the gang of the cheater they have taken my 16k. They are eating my interest. I would highly recmnd everyone to not use this.,order_status_and_payment,True,"Frustrated customer, complaint tone about Black Friday handling, not just a status question"
+491382,"@AmazonHelp no, porque he tenido que ir a buscar al vecino a distintas horas para recibir mi paquete",international_support_es,False,Spanish language delivery pickup issue
+494830,"@AmazonHelp No recibí más correos, cuando iba a ver mi orden en el tracking sí me salía mensaje que disculpe la demora y que debería estar llegando el 1 de Diciembre. Ahora ya no me sale nada, ni para hacer tracking",international_support_es,True,"Spanish, tracking system not working, order status unclear"
+544436,@115821 hate to bitch during 🎄 but super frustrating to get screwed an undelivered 📦 and cust. service not being able to fix in time 😠,delivery_delay,True,"Frustrated customer, undelivered holiday package, service failed to resolve"
+751715,"@AmazonHelp Yeah, I'm using Amazon from a long time, and I always trust @115850 in terms of customer service. Which I experienced recently 😊",general_feedback,False,"Positive feedback, long-time satisfied customer"
+784074,@AmazonHelp Through you,general_inquiry_and_error,False,"Message lacks context, unclear intent"
+1032368,@AmazonHelp I have still not got any resolution. Filled the form again.,pending_resolution_followup,True,"Repeated follow-up, still unresolved after filling form"
+1118575,"@115850 After order automatically being cancelled by amazon,delivery guy calls saying he can deliver product - IS THIS BLACK MARKETING?",order_status_and_payment,True,"Confusing cancellation vs delivery conflict, serious accusation, needs investigation"
+1380709,@AmazonHelp I'm having trouble placing an order for an item. It won't ship anywhere. Can you help me?,general_inquiry_and_error,False,"Routine order placement issue, item shipping restriction question"
+1421287,@115850 This is now regular. Buy something with promise of delivery next day. Then say sorry and push delivery by 3 days. What is d point? https://t.co/ooxJxMHLLB,delivery_delay,True,"Recurring delivery promise broken pattern, frustrated tone"
+1603748,"Had an @115830  #Prime delivery not show up yesterday, it wasn't even set as next day. As if a 7am to 10pm delivery window wasn't wide enough #NoShow",delivery_delay,True,"Missed delivery, no-show, frustrated sarcastic tone"
+1727742,@115850 Had a bas exp with the delivery when it was rescheduled after I called the agent and asked him to deliver specifically,delivery_delay,True,"Bad experience, specific customer request was not honored"
+2009964,@117086 Te desejo boas vendas e espero um dia que possamos ter o mesmo modelo dos EUA em terras tupiniquins.,general_inquiry_and_error,False,"Non-English (Portuguese), friendly comment, no action needed"
+2311992,"(Seriously, thank you for always being awesome @AmazonHelp. Your entire customer service department is wonderful.)",general_feedback,False,"Positive feedback, praising customer service"
+2318972,"@AmazonHelp Dear Sir l have ordered my NOKIA model number 130 DS (Black) mobile with amazon  order no 403-9527897-0448309, dated 27.10.2017. I have received the phone on 07.11.2017",order_status_and_payment,False,"Order/delivery status report, cut off in view, appears factual"
+2345611,"@116618 congrats to Jeff for the 100 billion 💰, but your fast forward feature is terrible. Something that @116602 does way better.",general_inquiry_and_error,False,"Mixed feedback, product feature complaint about video app"
+2482402,@AmazonHelp Yes it happens all the time. Apple Mac 10.10.5 with Chrome. Thanks.,general_inquiry_and_error,False,"Technical troubleshooting detail, routine follow-up"
+2630095,Hoy tuve la mejor experiencia de atención al cliente y fue con @115821,international_support_es,False,"Spanish, positive feedback praising specific agent"
+2909170,"@AmazonHelp Damit mir wieder gesagt wird, dass ich den Stick auf Werkseinstellung zurücksetzen soll? Es ist nichts installiert, kein Sideload usw.",general_inquiry_and_error,False,"Non-English (German), device troubleshooting question, routine"

@@ -1,0 +1,177 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1000,cust_1000,True,2017-10-01 09:00:00 +0000,The item I received for order #100000 is completely different from what I ordered.,1001,
+1001,AmazonHelp,False,2017-10-01 09:03:00 +0000,"That's disappointing, sorry! Please DM order # and a photo so we can send a replacement or refund. -Ravi",,1000
+1002,cust_1001,True,2017-10-02 10:07:00 +0000,"I want to return item from order #100001, how do I start that?",1003,
+1003,AmazonHelp,False,2017-10-02 10:10:00 +0000,You can start a return anytime from Your Orders > Return or Replace Items for order #100001. -Ravi,,1002
+1004,cust_1002,True,2017-10-03 11:14:00 +0000,How do I cancel order #100002? I ordered by mistake.,1005,
+1005,AmazonHelp,False,2017-10-03 11:17:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100002. If it already shipped, refuse delivery or return it. -Sam",,1004
+1006,cust_1003,True,2017-10-04 12:21:00 +0000,"Just wanted to say the replacement for order #100003 arrived super fast, thanks!",1007,
+1007,AmazonHelp,False,2017-10-04 12:24:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1006
+1008,cust_1004,True,2017-10-05 13:28:00 +0000,"Order #100004 still hasn't shipped after 6 days, what's going on?",1009,
+1009,AmazonHelp,False,2017-10-05 13:31:00 +0000,"Sorry for the delay! I can see order #100004 is preparing for dispatch, it will ship within 24h. -Sam",,1008
+1010,cust_1005,True,2017-10-06 14:35:00 +0000,My package for order #100005 says delivered but I never got it.,1011,
+1011,AmazonHelp,False,2017-10-06 14:38:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1010
+1012,cust_1006,True,2017-10-07 15:42:00 +0000,"This is the third time my delivery for order #100006 is late, I'm considering canceling Prime.",1013,
+1013,AmazonHelp,False,2017-10-07 15:45:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1012
+1014,cust_1007,True,2017-10-08 16:49:00 +0000,My package for order #100007 says delivered but I never got it.,1015,
+1015,AmazonHelp,False,2017-10-08 16:52:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1014
+1016,cust_1008,True,2017-10-09 09:56:00 +0000,The item I received for order #100008 is completely different from what I ordered.,1017,
+1017,AmazonHelp,False,2017-10-09 09:59:00 +0000,"That's disappointing, sorry! Please DM order # and a photo so we can send a replacement or refund. -Ravi",,1016
+1018,cust_1009,True,2017-10-10 10:03:00 +0000,"Someone used my account to place an order I didn't make, order #100009.",1019,
+1019,AmazonHelp,False,2017-10-10 10:06:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1018
+1020,cust_1010,True,2017-10-11 11:10:00 +0000,"Order #100010 still hasn't shipped after 6 days, what's going on?",1021,
+1021,AmazonHelp,False,2017-10-11 11:13:00 +0000,"Sorry for the delay! I can see order #100010 is preparing for dispatch, it will ship within 24h. -Sam",,1020
+1022,cust_1011,True,2017-10-12 12:17:00 +0000,"This is the third time my delivery for order #100011 is late, I'm considering canceling Prime.",1023,
+1023,AmazonHelp,False,2017-10-12 12:20:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1022
+1024,cust_1012,True,2017-10-13 13:24:00 +0000,"Charged twice for order #100012, need a refund now.",1025,
+1025,AmazonHelp,False,2017-10-13 13:27:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1024
+1026,cust_1013,True,2017-10-14 14:31:00 +0000,"Order #100013 still hasn't shipped after 6 days, what's going on?",1027,
+1027,AmazonHelp,False,2017-10-14 14:34:00 +0000,"Sorry for the delay! I can see order #100013 is preparing for dispatch, it will ship within 24h. -Sam",,1026
+1028,cust_1014,True,2017-10-15 15:38:00 +0000,My package for order #100014 says delivered but I never got it.,1029,
+1029,AmazonHelp,False,2017-10-15 15:41:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1028
+1030,cust_1015,True,2017-10-16 16:45:00 +0000,How do I cancel order #100015? I ordered by mistake.,1031,
+1031,AmazonHelp,False,2017-10-16 16:48:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100015. If it already shipped, refuse delivery or return it. -Sam",,1030
+1032,cust_1016,True,2017-10-17 09:52:00 +0000,How do I cancel order #100016? I ordered by mistake.,1033,
+1033,AmazonHelp,False,2017-10-17 09:55:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100016. If it already shipped, refuse delivery or return it. -Sam",,1032
+1034,cust_1017,True,2017-10-18 10:59:00 +0000,My package for order #100017 says delivered but I never got it.,1035,
+1035,AmazonHelp,False,2017-10-18 10:02:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1034
+1036,cust_1018,True,2017-10-19 11:06:00 +0000,"Charged twice for order #100018, need a refund now.",1037,
+1037,AmazonHelp,False,2017-10-19 11:09:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1036
+1038,cust_1019,True,2017-10-20 12:13:00 +0000,My package for order #100019 says delivered but I never got it.,1039,
+1039,AmazonHelp,False,2017-10-20 12:16:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1038
+1040,cust_1020,True,2017-10-21 13:20:00 +0000,"This is the third time my delivery for order #100020 is late, I'm considering canceling Prime.",1041,
+1041,AmazonHelp,False,2017-10-21 13:23:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1040
+1042,cust_1021,True,2017-10-22 14:27:00 +0000,How do I cancel order #100021? I ordered by mistake.,1043,
+1043,AmazonHelp,False,2017-10-22 14:30:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100021. If it already shipped, refuse delivery or return it. -Sam",,1042
+1044,cust_1022,True,2017-10-23 15:34:00 +0000,"Order #100022 still hasn't shipped after 6 days, what's going on?",1045,
+1045,AmazonHelp,False,2017-10-23 15:37:00 +0000,"Sorry for the delay! I can see order #100022 is preparing for dispatch, it will ship within 24h. -Sam",,1044
+1046,cust_1023,True,2017-10-24 16:41:00 +0000,"Someone used my account to place an order I didn't make, order #100023.",1047,
+1047,AmazonHelp,False,2017-10-24 16:44:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1046
+1048,cust_1024,True,2017-10-25 09:48:00 +0000,My package for order #100024 says delivered but I never got it.,1049,
+1049,AmazonHelp,False,2017-10-25 09:51:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1048
+1050,cust_1025,True,2017-10-26 10:55:00 +0000,"Charged twice for order #100025, need a refund now.",1051,
+1051,AmazonHelp,False,2017-10-26 10:58:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1050
+1052,cust_1026,True,2017-10-27 11:02:00 +0000,"Just wanted to say the replacement for order #100026 arrived super fast, thanks!",1053,
+1053,AmazonHelp,False,2017-10-27 11:05:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1052
+1054,cust_1027,True,2017-10-28 12:09:00 +0000,"Just wanted to say the replacement for order #100027 arrived super fast, thanks!",1055,
+1055,AmazonHelp,False,2017-10-28 12:12:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1054
+1056,cust_1028,True,2017-10-01 13:16:00 +0000,"Someone used my account to place an order I didn't make, order #100028.",1057,
+1057,AmazonHelp,False,2017-10-01 13:19:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1056
+1058,cust_1029,True,2017-10-02 14:23:00 +0000,"Order #100029 still hasn't shipped after 6 days, what's going on?",1059,
+1059,AmazonHelp,False,2017-10-02 14:26:00 +0000,"Sorry for the delay! I can see order #100029 is preparing for dispatch, it will ship within 24h. -Sam",,1058
+1060,cust_1030,True,2017-10-03 15:30:00 +0000,"Someone used my account to place an order I didn't make, order #100030.",1061,
+1061,AmazonHelp,False,2017-10-03 15:33:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1060
+1062,cust_1031,True,2017-10-04 16:37:00 +0000,"Someone used my account to place an order I didn't make, order #100031.",1063,
+1063,AmazonHelp,False,2017-10-04 16:40:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1062
+1064,cust_1032,True,2017-10-05 09:44:00 +0000,How do I cancel order #100032? I ordered by mistake.,1065,
+1065,AmazonHelp,False,2017-10-05 09:47:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100032. If it already shipped, refuse delivery or return it. -Sam",,1064
+1066,cust_1033,True,2017-10-06 10:51:00 +0000,"Order #100033 still hasn't shipped after 6 days, what's going on?",1067,
+1067,AmazonHelp,False,2017-10-06 10:54:00 +0000,"Sorry for the delay! I can see order #100033 is preparing for dispatch, it will ship within 24h. -Sam",,1066
+1068,cust_1034,True,2017-10-07 11:58:00 +0000,"Charged twice for order #100034, need a refund now.",1069,
+1069,AmazonHelp,False,2017-10-07 11:01:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1068
+1070,cust_1035,True,2017-10-08 12:05:00 +0000,"Order #100035 still hasn't shipped after 6 days, what's going on?",1071,
+1071,AmazonHelp,False,2017-10-08 12:08:00 +0000,"Sorry for the delay! I can see order #100035 is preparing for dispatch, it will ship within 24h. -Sam",,1070
+1072,cust_1036,True,2017-10-09 13:12:00 +0000,"This is the third time my delivery for order #100036 is late, I'm considering canceling Prime.",1073,
+1073,AmazonHelp,False,2017-10-09 13:15:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1072
+1074,cust_1037,True,2017-10-10 14:19:00 +0000,"I want to return item from order #100037, how do I start that?",1075,
+1075,AmazonHelp,False,2017-10-10 14:22:00 +0000,You can start a return anytime from Your Orders > Return or Replace Items for order #100037. -Ravi,,1074
+1076,cust_1038,True,2017-10-11 15:26:00 +0000,"Can't log into my account, keeps saying wrong password even after reset.",1077,
+1077,AmazonHelp,False,2017-10-11 15:29:00 +0000,Let's get this fixed -- please DM us the email on the account (not the password) so we can look into it. -Kai,,1076
+1078,cust_1039,True,2017-10-12 16:33:00 +0000,How do I cancel order #100039? I ordered by mistake.,1079,
+1079,AmazonHelp,False,2017-10-12 16:36:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100039. If it already shipped, refuse delivery or return it. -Sam",,1078
+1080,cust_1040,True,2017-10-13 09:40:00 +0000,"I want to return item from order #100040, how do I start that?",1081,
+1081,AmazonHelp,False,2017-10-13 09:43:00 +0000,You can start a return anytime from Your Orders > Return or Replace Items for order #100040. -Ravi,,1080
+1082,cust_1041,True,2017-10-14 10:47:00 +0000,"This is the third time my delivery for order #100041 is late, I'm considering canceling Prime.",1083,
+1083,AmazonHelp,False,2017-10-14 10:50:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1082
+1084,cust_1042,True,2017-10-15 11:54:00 +0000,My package for order #100042 says delivered but I never got it.,1085,
+1085,AmazonHelp,False,2017-10-15 11:57:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1084
+1086,cust_1043,True,2017-10-16 12:01:00 +0000,"Someone used my account to place an order I didn't make, order #100043.",1087,
+1087,AmazonHelp,False,2017-10-16 12:04:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1086
+1088,cust_1044,True,2017-10-17 13:08:00 +0000,"Can't log into my account, keeps saying wrong password even after reset.",1089,
+1089,AmazonHelp,False,2017-10-17 13:11:00 +0000,Let's get this fixed -- please DM us the email on the account (not the password) so we can look into it. -Kai,,1088
+1090,cust_1045,True,2017-10-18 14:15:00 +0000,"This is the third time my delivery for order #100045 is late, I'm considering canceling Prime.",1091,
+1091,AmazonHelp,False,2017-10-18 14:18:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1090
+1092,cust_1046,True,2017-10-19 15:22:00 +0000,"Just wanted to say the replacement for order #100046 arrived super fast, thanks!",1093,
+1093,AmazonHelp,False,2017-10-19 15:25:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1092
+1094,cust_1047,True,2017-10-20 16:29:00 +0000,"I want to return item from order #100047, how do I start that?",1095,
+1095,AmazonHelp,False,2017-10-20 16:32:00 +0000,You can start a return anytime from Your Orders > Return or Replace Items for order #100047. -Ravi,,1094
+1096,cust_1048,True,2017-10-21 09:36:00 +0000,My package for order #100048 says delivered but I never got it.,1097,
+1097,AmazonHelp,False,2017-10-21 09:39:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1096
+1098,cust_1049,True,2017-10-22 10:43:00 +0000,"Someone used my account to place an order I didn't make, order #100049.",1099,
+1099,AmazonHelp,False,2017-10-22 10:46:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1098
+1100,cust_1050,True,2017-10-23 11:50:00 +0000,"Someone used my account to place an order I didn't make, order #100050.",1101,
+1101,AmazonHelp,False,2017-10-23 11:53:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1100
+1102,cust_1051,True,2017-10-24 12:57:00 +0000,"Just wanted to say the replacement for order #100051 arrived super fast, thanks!",1103,
+1103,AmazonHelp,False,2017-10-24 12:00:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1102
+1104,cust_1052,True,2017-10-25 13:04:00 +0000,"Charged twice for order #100052, need a refund now.",1105,
+1105,AmazonHelp,False,2017-10-25 13:07:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1104
+1106,cust_1053,True,2017-10-26 14:11:00 +0000,The item I received for order #100053 is completely different from what I ordered.,1107,
+1107,AmazonHelp,False,2017-10-26 14:14:00 +0000,"That's disappointing, sorry! Please DM order # and a photo so we can send a replacement or refund. -Ravi",,1106
+1108,cust_1054,True,2017-10-27 15:18:00 +0000,My package for order #100054 says delivered but I never got it.,1109,
+1109,AmazonHelp,False,2017-10-27 15:21:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1108
+1110,cust_1055,True,2017-10-28 16:25:00 +0000,"This is the third time my delivery for order #100055 is late, I'm considering canceling Prime.",1111,
+1111,AmazonHelp,False,2017-10-28 16:28:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1110
+1112,cust_1056,True,2017-10-01 09:32:00 +0000,What's your return window for electronics bought in order #100056?,1113,
+1113,AmazonHelp,False,2017-10-01 09:35:00 +0000,"Most electronics can be returned within 30 days of delivery, some exclusions apply. Check Your Orders for order #100056 specifics. -Ravi",,1112
+1114,cust_1057,True,2017-10-02 10:39:00 +0000,My package for order #100057 says delivered but I never got it.,1115,
+1115,AmazonHelp,False,2017-10-02 10:42:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1114
+1116,cust_1058,True,2017-10-03 11:46:00 +0000,"Someone used my account to place an order I didn't make, order #100058.",1117,
+1117,AmazonHelp,False,2017-10-03 11:49:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1116
+1118,cust_1059,True,2017-10-04 12:53:00 +0000,"Order #100059 still hasn't shipped after 6 days, what's going on?",1119,
+1119,AmazonHelp,False,2017-10-04 12:56:00 +0000,"Sorry for the delay! I can see order #100059 is preparing for dispatch, it will ship within 24h. -Sam",,1118
+1120,cust_1060,True,2017-10-05 13:00:00 +0000,"Someone used my account to place an order I didn't make, order #100060.",1121,
+1121,AmazonHelp,False,2017-10-05 13:03:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1120
+1122,cust_1061,True,2017-10-06 14:07:00 +0000,"Charged twice for order #100061, need a refund now.",1123,
+1123,AmazonHelp,False,2017-10-06 14:10:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1122
+1124,cust_1062,True,2017-10-07 15:14:00 +0000,Is Amazon Prime video down right now? Can't stream anything.,1125,
+1125,AmazonHelp,False,2017-10-07 15:17:00 +0000,We're seeing some reports of this -- our team is investigating. Try restarting the app in the meantime. -Kai,,1124
+1126,cust_1063,True,2017-10-08 16:21:00 +0000,"Just wanted to say the replacement for order #100063 arrived super fast, thanks!",1127,
+1127,AmazonHelp,False,2017-10-08 16:24:00 +0000,"That's wonderful to hear, thanks for letting us know! -Kai",,1126
+1128,cust_1064,True,2017-10-09 09:28:00 +0000,"This is the third time my delivery for order #100064 is late, I'm considering canceling Prime.",1129,
+1129,AmazonHelp,False,2017-10-09 09:31:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1128
+1130,cust_1065,True,2017-10-10 10:35:00 +0000,How do I cancel order #100065? I ordered by mistake.,1131,
+1131,AmazonHelp,False,2017-10-10 10:38:00 +0000,"No problem, you can cancel from Your Orders if it hasn't shipped yet for order #100065. If it already shipped, refuse delivery or return it. -Sam",,1130
+1132,cust_1066,True,2017-10-11 11:42:00 +0000,The item I received for order #100066 is completely different from what I ordered.,1133,
+1133,AmazonHelp,False,2017-10-11 11:45:00 +0000,"That's disappointing, sorry! Please DM order # and a photo so we can send a replacement or refund. -Ravi",,1132
+1134,cust_1067,True,2017-10-12 12:49:00 +0000,Is Amazon Prime video down right now? Can't stream anything.,1135,
+1135,AmazonHelp,False,2017-10-12 12:52:00 +0000,We're seeing some reports of this -- our team is investigating. Try restarting the app in the meantime. -Kai,,1134
+1136,cust_1068,True,2017-10-13 13:56:00 +0000,"Someone used my account to place an order I didn't make, order #100068.",1137,
+1137,AmazonHelp,False,2017-10-13 13:59:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1136
+1138,cust_1069,True,2017-10-14 14:03:00 +0000,Is Amazon Prime video down right now? Can't stream anything.,1139,
+1139,AmazonHelp,False,2017-10-14 14:06:00 +0000,We're seeing some reports of this -- our team is investigating. Try restarting the app in the meantime. -Kai,,1138
+1140,cust_1070,True,2017-10-15 15:10:00 +0000,The item I received for order #100070 is completely different from what I ordered.,1141,
+1141,AmazonHelp,False,2017-10-15 15:13:00 +0000,"That's disappointing, sorry! Please DM order # and a photo so we can send a replacement or refund. -Ravi",,1140
+1142,cust_1071,True,2017-10-16 16:17:00 +0000,"Can't log into my account, keeps saying wrong password even after reset.",1143,
+1143,AmazonHelp,False,2017-10-16 16:20:00 +0000,Let's get this fixed -- please DM us the email on the account (not the password) so we can look into it. -Kai,,1142
+1144,cust_1072,True,2017-10-17 09:24:00 +0000,"Charged twice for order #100072, need a refund now.",1145,
+1145,AmazonHelp,False,2017-10-17 09:27:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1144
+1146,cust_1073,True,2017-10-18 10:31:00 +0000,"I want to return item from order #100073, how do I start that?",1147,
+1147,AmazonHelp,False,2017-10-18 10:34:00 +0000,You can start a return anytime from Your Orders > Return or Replace Items for order #100073. -Ravi,,1146
+1148,cust_1074,True,2017-10-19 11:38:00 +0000,What's your return window for electronics bought in order #100074?,1149,
+1149,AmazonHelp,False,2017-10-19 11:41:00 +0000,"Most electronics can be returned within 30 days of delivery, some exclusions apply. Check Your Orders for order #100074 specifics. -Ravi",,1148
+1150,cust_1075,True,2017-10-20 12:45:00 +0000,"Charged twice for order #100075, need a refund now.",1151,
+1151,AmazonHelp,False,2017-10-20 12:48:00 +0000,Sorry about that! Please DM your order # and we'll verify and refund the duplicate charge within 3-5 business days. -Sam,,1150
+1152,cust_1076,True,2017-10-21 13:52:00 +0000,My package for order #100076 says delivered but I never got it.,1153,
+1153,AmazonHelp,False,2017-10-21 13:55:00 +0000,That's not good to hear. Please DM us your order # and address so we can investigate a missing delivery. -Kai,,1152
+1154,cust_1077,True,2017-10-22 14:59:00 +0000,"Someone used my account to place an order I didn't make, order #100077.",1155,
+1155,AmazonHelp,False,2017-10-22 14:02:00 +0000,"This needs immediate attention -- please DM us right away, do not share your password, and we'll lock down the account. -Sam",,1154
+1156,cust_1078,True,2017-10-23 15:06:00 +0000,"Can't log into my account, keeps saying wrong password even after reset.",1157,
+1157,AmazonHelp,False,2017-10-23 15:09:00 +0000,Let's get this fixed -- please DM us the email on the account (not the password) so we can look into it. -Kai,,1156
+1158,cust_1079,True,2017-10-24 16:13:00 +0000,"This is the third time my delivery for order #100079 is late, I'm considering canceling Prime.",1159,
+1159,AmazonHelp,False,2017-10-24 16:16:00 +0000,I completely understand the frustration. Please DM order # so we can escalate this and make it right. -Ravi,,1158
+1160,other_0_0,True,2017-10-05 10:00:00 +0000,Hey @AppleSupport random unrelated issue 0,1161,
+1161,AppleSupport,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -AppleSupport",,1160
+1162,other_0_1,True,2017-10-05 10:00:00 +0000,Hey @AppleSupport random unrelated issue 1,1163,
+1163,AppleSupport,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -AppleSupport",,1162
+1164,other_0_2,True,2017-10-05 10:00:00 +0000,Hey @AppleSupport random unrelated issue 2,1165,
+1165,AppleSupport,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -AppleSupport",,1164
+1166,other_0_3,True,2017-10-05 10:00:00 +0000,Hey @AppleSupport random unrelated issue 3,1167,
+1167,AppleSupport,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -AppleSupport",,1166
+1168,other_1_0,True,2017-10-05 10:00:00 +0000,Hey @Uber_Support random unrelated issue 0,1169,
+1169,Uber_Support,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -Uber_Support",,1168
+1170,other_1_1,True,2017-10-05 10:00:00 +0000,Hey @Uber_Support random unrelated issue 1,1171,
+1171,Uber_Support,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -Uber_Support",,1170
+1172,other_1_2,True,2017-10-05 10:00:00 +0000,Hey @Uber_Support random unrelated issue 2,1173,
+1173,Uber_Support,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -Uber_Support",,1172
+1174,other_1_3,True,2017-10-05 10:00:00 +0000,Hey @Uber_Support random unrelated issue 3,1175,
+1175,Uber_Support,False,2017-10-05 10:05:00 +0000,"We're on it, DM us! -Uber_Support",,1174
